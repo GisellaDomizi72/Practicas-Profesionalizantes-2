@@ -1,0 +1,32 @@
+.fst-italic{
+    margin-left: 90px;
+    text-align: justify;
+    margin-right: 90px;
+    font-size: 20px;
+}
+.card{
+    margin-top: 30px;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-bottom: 40px;
+    float: inline-end;
+}
+.card-body{
+    text-align: justify;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.accordion{
+    font-family: sans-serif;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.registro{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 60px;
+}
+.row{
+    margin-left: 60px;
+    margin-right: 60px
+}
